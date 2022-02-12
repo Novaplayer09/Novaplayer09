@@ -5,7 +5,7 @@
 
 
 <p align="right">
-<p align="left">
+<a align="left">
   Hi, im from Mexico City my name is Luis Sanchez
   <br>
   <br>
@@ -17,7 +17,6 @@
   <br>
   I’m dont really god but i like study this world 
   <br>
-</p>
-
+</a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Novaplayer09&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
