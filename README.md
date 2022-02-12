@@ -4,7 +4,7 @@
 
 
 
-<p align="right">
+<p align="left">
   <br>
   Hi, im from Mexico City my name is Luis Sanchez
   <br>
