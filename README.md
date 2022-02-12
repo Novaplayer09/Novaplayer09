@@ -1,7 +1,7 @@
-### Say Hi there ! 👋
+### Say hi there ! 👋
 
 
-<p align="center">
+<p align="left">
   Hi, im from Mexico City my name is Luis Sanchez
   <br>
   <br>
@@ -16,6 +16,6 @@
 </p>
 
 
-<p align="center">
+<p align="right">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Novaplayer09&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
